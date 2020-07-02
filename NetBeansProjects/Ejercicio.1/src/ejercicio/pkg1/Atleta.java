@@ -4,7 +4,7 @@ package ejercicio.pkg1;
 import java.util.logging.Logger;
 
 /**
- * @author Johanna Naranjo
+ * @author Johanna Naranjo para el sena
  */
 public class Atleta {
     // Declaracion de variables 
